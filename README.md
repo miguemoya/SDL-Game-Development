@@ -20,4 +20,13 @@ El código está modificado para ser compilado en Gnu/Linux, en una máquina con
 - 2.6.texture_manager
 - 2.7.singleton
 
+## Capítulo 3:
+
+- 3.1.herencia
+- 3.2.1.polimorfismo
+- 3.2.2.polimorfismo
+- 3.3.abstract
+
+
+
 
